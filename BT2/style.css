@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    width: 750px;
+    margin: auto;
+    position: relative;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+.container{
+    background-color: violet;
+    height: 400px;
+}
+.box{
+    background-color: white;
+    width: 350px;
+    position: absolute;
+    top:130px;
+    left: 200px;
+    padding:20px;
+    border-radius: 10px;
+}
+.box-1{
+    color: rgb(178, 181, 185);
+    position: absolute;
+    top: 10px;
+    left: 300px;
+    font-size: 12px;
+}
+.box-3{
+    font-size: 14px;
+    margin: 15px 0;
+    
+}
+.box-4{
+    color: rgb(186, 184, 184);
+    font-size: 10px;
+}
+.box-5{
+    font-size: 13px;
+
+}

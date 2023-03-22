@@ -1,0 +1,19 @@
+.container {
+    width: 300px;
+    margin: auto;
+    position: relative;
+
+}
+
+.box {
+    font-family: sans-serif;
+    color: white;
+    position: absolute;
+    top: 355px;
+    left: 20px;
+}
+
+.para {
+    color: rgb(209, 208, 208);
+    
+}

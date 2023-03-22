@@ -1,0 +1,31 @@
+.container {
+    width: 400px;
+    border: 1px solid;
+    position: relative;
+    margin: auto;
+
+}
+
+.box{
+    background-color: rgba(0, 0, 0, 0.7);
+    color: aliceblue;
+    font-size: 25px;
+    position: absolute;
+    top: 317px;
+    width: 100%;
+   
+  
+    
+}
+
+.icon{
+    width: 30px;
+    background-color: rgb(227, 114, 39);
+    border-radius: 70%;
+    
+  
+}
+p.icon, span {
+    display: inline-block;
+  }
+  
